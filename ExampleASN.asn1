@@ -1,0 +1,8 @@
+ExampleASN DEFINITIONS ::=
+BEGIN
+    Message ::= SEQUENCE
+    {
+        string VisibleString,
+        octetstring OCTET STRING
+    }
+END
