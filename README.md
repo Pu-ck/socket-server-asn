@@ -19,4 +19,4 @@ python client.py
 
 The host.properties config file contains a host address and a port on which the server will be running. In the example the server side is running on a Debian subsystem and the client side is running on Windows.
 
-<img src = screenshot_2.png width=600>
+<img src = screenshot_2.png width=800>
